@@ -1,1 +1,1 @@
-# Takeda-MIT: Iterative Keyword Search
+# Takeda-MIT: Iterative Search Term Generation
